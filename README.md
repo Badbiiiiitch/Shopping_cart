@@ -1,2 +1,3 @@
 # Shopping_cart
-Exactly what the repo says.
+An online shopping cart that adds items to a list 
+and sums up the total of the price of all the goods in the cart.
